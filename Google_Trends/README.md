@@ -40,4 +40,4 @@ Between 2008 and 2014, the there were big spikes in searches not linked to incre
 
 Technology: Python, Pandas, Matpltlib
 
-Skills: data cleaning, data analysis, data manipulation, data visualisation with Matplotlib (time series data across two axis, scatter plots)
+Skills: data cleaning, data analysis, data manipulation, data visualisation with Matplotlib (time series data across two axis)
