@@ -15,4 +15,4 @@ Summarised in [notebook](https://github.com/MunMunL/Data_Analysis_Portfolio/tree
 
 Technology: Python, Pandas, Plotly
 
-Skills: data cleaning, data analysis, data manipulation, data visualisation with Plotly (bar charts, scatter plots, grouped bar charts, box plots,)
+Skills: data cleaning, data analysis, data manipulation, data visualisation with Plotly (bar charts, scatter plots, grouped bar charts, box plots, pie charts, donut charts)
