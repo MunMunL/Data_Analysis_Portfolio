@@ -1,6 +1,6 @@
 # LEGO Analysis
 
-Code: 
+Code: https://github.com/MunMunL/Data_Analysis_Portfolio/blob/main/LEGO_Analysis/Lego_Analysis.ipynb
 
 ## Goal
 
