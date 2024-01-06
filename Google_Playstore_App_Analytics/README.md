@@ -9,7 +9,7 @@ App and review data was scraped from the Google Play Store by Lavanya Gupta in 2
 
 ## Results
 
-Summarised in notebook 
+Summarised in [notebook](https://github.com/MunMunL/Data_Analysis_Portfolio/tree/main/Google_Playstore_App_Analytics) 
   
 ## Technology used
 
