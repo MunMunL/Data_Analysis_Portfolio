@@ -1,7 +1,5 @@
 # Absenteeism Analysis
 
-Code: 
-
 ## Goal
 
 To explore whether a person presenting certain characteristics is expected to be away from work at some point in time or not.
