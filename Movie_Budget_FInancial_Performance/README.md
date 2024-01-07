@@ -1,6 +1,6 @@
 # Movie Budget and Financial Performance
 
-Code: https://github.com/MunMunL/Data_Analysis_Portfolio/blob/main/Movie_Budget_FInancial_Performance/Movie%20Budget%20and%20Financial%20Performance.ipynb
+Code: [Movie Budget and Financial Performance](https://github.com/MunMunL/Data_Analysis_Portfolio/blob/main/Movie_Budget_FInancial_Performance/Movie%20Budget%20and%20Financial%20Performance.ipynb)
 
 ## Goal
 
