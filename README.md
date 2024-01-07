@@ -8,4 +8,4 @@ This repository is a collection of Data Analytics/ Data Science projects.
 * [Google Trends and Data Visualisation](https://github.com/MunMunL/Data_Analysis_Portfolio/blob/main/Google_Trends/README.md)
 * [Google Play Store Analysis](https://github.com/MunMunL/Data_Analysis_Portfolio/tree/main/Google_Playstore_App_Analytics)
 * [Movie Budget and Financial Performance](https://github.com/MunMunL/Data_Analysis_Portfolio/tree/main/Movie_Budget_FInancial_Performance)
-* [Absenteeism Analysis]
+* [Absenteeism Analysis](https://github.com/MunMunL/Data_Analysis_Portfolio/tree/main/Absenteeism_Analysis)
